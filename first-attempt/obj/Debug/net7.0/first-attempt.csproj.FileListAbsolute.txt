@@ -1,0 +1,15 @@
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/bin/Debug/net7.0/first-attempt
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/bin/Debug/net7.0/first-attempt.deps.json
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/bin/Debug/net7.0/first-attempt.runtimeconfig.json
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/bin/Debug/net7.0/first-attempt.dll
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/bin/Debug/net7.0/first-attempt.pdb
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/obj/Debug/net7.0/first-attempt.csproj.AssemblyReference.cache
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/obj/Debug/net7.0/first-attempt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/obj/Debug/net7.0/first-attempt.AssemblyInfoInputs.cache
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/obj/Debug/net7.0/first-attempt.AssemblyInfo.cs
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/obj/Debug/net7.0/first-attempt.csproj.CoreCompileInputs.cache
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/obj/Debug/net7.0/first-attempt.dll
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/obj/Debug/net7.0/refint/first-attempt.dll
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/obj/Debug/net7.0/first-attempt.pdb
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/obj/Debug/net7.0/first-attempt.genruntimeconfig.cache
+/Users/ruslanvolskyi/Projects/first-attempt/first-attempt/obj/Debug/net7.0/ref/first-attempt.dll

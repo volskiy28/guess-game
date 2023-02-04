@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{44FC12C2-85C3-4341-90C7-A9AD0627BAE1}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="first-attempt/Program.cs">
+    <Files>
+      <File FileName="first-attempt/Program.cs" Line="29" Column="69" />
+      <File FileName="first-attempt/Something.cs" Line="10" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="first-attempt" expanded="True">
+            <Node name="first-attempt" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.first-attempt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
